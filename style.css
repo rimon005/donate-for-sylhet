@@ -92,7 +92,37 @@
     letter-spacing: 3px;
     padding-bottom: 30px;
 }
+.donate-plan{
+    padding-bottom: 70px;
+}
 .donation-type{
     display: flex;
     justify-content: center;
+    gap: 30px;
+}
+.card1{
+    width: 300px;
+    height: 250px;
+    background-color: rgb(189, 219, 236);
+}
+.card-description{
+    padding: 20px;
+}
+.card-description p{
+    letter-spacing: 0;
+    font-size: 14px;
+    padding-top: 30px;
+}
+.icon-h{
+    padding-top: 20px;
+}
+.card2{
+    width: 300px;
+    height: 250px;
+    background-color: lightpink;
+}
+.card3{
+    width: 300px;
+    height: 250px;
+    background-color: lightsalmon;
 }
